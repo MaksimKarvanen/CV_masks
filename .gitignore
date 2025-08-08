@@ -1,0 +1,4 @@
+face_mask_cv/mask/
+face_mask_cv/work/
+face_mask_cv/runs/predict*
+/face_mask_cv/runs/detect/predict*
